@@ -149,6 +149,6 @@ Please open issues or pull requests for features, bug fixes, or suggestions.
 
 ## Contact
 
-Created by [eskgalio](mailto:jyotirmoy427@gmail.com)
+Created by [jyotirmoy_dutta](mailto:jyotirmoy427@gmail.com)
 
 --- 
